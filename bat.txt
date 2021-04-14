@@ -1,0 +1,451 @@
+Program TV/Situs
+================
+
+array(
+          "title" => "I AM Channel",
+          "desc" => "Situs yang menyediakan bahan-bahan untuk pelayanan penjangkauan dan penginjilan.",
+          "img" => "",
+          "link" => "https://video.iamchannel.org/videos",
+        ),
+array(
+          "title" => "Pijar TV - Buka Mata",
+          "desc" => "Sebuah program yang menjelaskan dan menjawab kesalahpahaman-kesalahpahaman yang terjadi seputar pemahaman terhadap kekristenan.",
+          "img" => "",
+          "link" => "https://www.youtube.com/playlist?list=PLXh9SJZiyRd_oWkIjh5kFIwPDdoEw4MSy",
+        ),
+array(
+          "title" => "Cermin Jiwa (LPMI)",
+          "desc" => "Kumpulan inspirasi pendek melalui video.",
+          "img" => "",
+          "link" => "https://www.cerminjiwa.com/",
+        ),
+array(
+          "title" => "Isa dan Islam",
+          "desc" => "Kumpulan video yang menyikapi tentang kekristenan dan Islam.",
+          "img" => "",
+          "link" => "https://www.videoisadanislam.com/category/video/",
+        ),
+array(
+          "title" => "Situs e-Misi",
+          "desc" => "Sumber informasi dan referensi terlengkap, tentang misi baik di Indonesia maupun di seluruh dunia.",
+          "img" => "",
+          "link" => "https://misi.sabda.org/",
+        ),
+array(
+          "title" => "Situs BaKat",
+          "desc" => "Situs Katalog berbagai jenis media Kristen dalam bahasa Indonesia dan bahasa suku.",
+          "img" => "",
+          "link" => "https://bakat.sabda.org",
+        ),
+
+
+Video
+=====
+
+array(                    
+          "title" => "Film Raja Kemuliaan",
+          "desc" => "Judul dari buku bergambar dan film Raja Kemuliaan, memiliki 70 adegan, masing-masing dengan satu halaman cerita.", 
+          "img" => "",    
+          "link" => "https://raja.sabda.org",
+          "mp4" => "",
+          "youtube" => "",
+        ),      
+array(                    
+          "title" => "Film Tetelestai (Isa)?",
+          "desc" => "Proyek Tetelestai adalah seri pengajaran Alkitab yang dinamis, terdiri dari 11 episode yang menyajikan narasi-narasi utama Alkitab tentang Allah. Setiap video membawa kita menelusuri kisah abadi penebusan dalam firman Tuhan, mulai dari penciptaan, kejatuhan, pengurbanan, pengurbanan sempurnan, Kristus, lalu harapan.", 
+          "img" => "",    
+          "link" => "https://tetelestai.sabda.org/              ",
+          "mp4" => "",
+          "youtube" => "",
+        ),
+array(                    
+          "title" => "Film Yesus Mesias (Isa)?",
+          "desc" => " ", 
+          "img" => "",    
+          "link" => " ",
+          "mp4" => "",
+          "youtube" => "",
+        ),      
+array(                    
+          "title" => "Film Lumo",
+          "desc" => "Terjemahan visual terhadap keempat kitab Injil, yang dikembangkan untuk benar-benar melibatkan orang-orang dengan Alkitab!", 
+          "img" => "",    
+          "link" => "https://lumo.sabda.org/??                 ",
+          "mp4" => "",
+          "youtube" => "",
+        ),      
+array(                    
+          "title" => "Film Matius",
+          "desc" => "Film yang menceritakan setiap detail kisah Injil Matius untuk menggambarkan kehidupan dan pelayanan Yesus Kristus secara utuh dan menyeluruh.", 
+          "img" => "",    
+          "link" => "https://sabda.id/watch.php?resource=matius",
+          "mp4" => "",
+          "youtube" => "",
+        ),      
+array(                    
+          "title" => "Film Lukas",
+          "desc" => "Film yang menceritakan kisah Injil Lukas secara detail dimulai dari pemberitaan kelahiran Yesus Kristus hingga peristiwa kenaikan-Nya ke sorga.", 
+          "img" => "",    
+          "link" => "https://sabda.id/watch.php?resource=lukas",
+          "mp4" => "",
+          "youtube" => "",
+        ),      
+array(                    
+          "title" => "Film Yohanes",
+          "desc" => "Film yang mengisahkan secara detail tentang kisah Injil Yohanes di mana Yohanes sebagai murid Yesus sekaligus saksi mata kehidupan Yesus Kristus dan segala pelayanan-Nya semasa di bumi hingga peristiwa kebangkitan-Nya.", 
+          "img" => "",    
+          "link" => "https://sabda.id/watch.php?resource=yohanes",
+          "mp4" => "",
+          "youtube" => "",
+        ),      
+array(                    
+          "title" => "Seeking Allah, Finding Jesus: The Christian Testimony of Nabeel Qureshi",
+          "desc" => "Sebuah kesaksian dari Nabeel Qureshi mengenai pengalamannya mencari Allah dan menemukan Yesus.", 
+          "img" => "",    
+          "link" => "",
+          "mp4" => "",
+          "youtube" => "https://www.youtube.com/watch?v=k0D8Uz4oQck",
+        ),      
+array(                    
+          "title" => "Seeking Allah Finding Jesus, Video Study: Session 1",
+          "desc" => "Sebuah pembelajaran ketika mencari Allah justru menemukan Yesus.", 
+          "img" => "",    
+          "link" => "",
+          "mp4" => "",
+          "youtube" => "https://www.youtube.com/watch?v=O9rcFduex1Q",
+        ),      
+array(                    
+          "title" => "What About Other Religions? Nabeel Quareshi",
+          "desc" => "Metode efektif untuk menjangkau orang yang jauh dari Tuhan.", 
+          "img" => "",    
+          "link" => "",
+          "mp4" => "",
+          "youtube" => "https://www.youtube.com/watch?v=qzByh4ix_K4",
+        ),      
+array(                    
+          "title" => "Nabeel Qureshi: Jesus in Islam vs. Jesus in Christianity - Apologetics to Islam",
+          "desc" => "Apologetika bagi umat Muslim. Yesus dalam Islam, dan Yesus dalam kekristenan.", 
+          "img" => "",    
+          "link" => "",
+          "mp4" => "",
+          "youtube" => "https://www.youtube.com/watch?v=QGR08BizLq8",
+        ),      
+array(                    
+          "title" => "5 Apologetic Questions That Every Christian Should Know How to Answer - Pasi Turunen",
+          "desc" => " ", 
+          "img" => "",    
+          "link" => "",
+          "mp4" => "",
+          "youtube" => "https://www.youtube.com/watch?v=QEFkojJ-QzE",
+        ),
+        
+APPS
+====
+
+array(                    
+          "title" => "Kitab TZI - Taurat, Zabur, Injil",
+          "desc" => "Aplikasi Kitab TZI terdiri dari Kitab Suci Taurat, Zabur, dan Injil dalam bahasa Indonesia (Terjemahan 1912) yang telah dilestarikan untuk masyarakat Indonesia pada masa kini.", 
+          "img" => "",    
+          "link" => "https://play.google.com/store/apps/details?id=kitabtzi1912.indonesia",
+        ),      
+array(                    
+          "title" => "Kitab Suci Audio",
+          "desc" => "Kitab Suci adalah aplikasi seluruh Kitab Taurat, Zabur, dan Injil yang ditulis dalam bahasa Indonesia, dilengkapi dengan audio dan artikel-artikel pendukung.", 
+          "img" => "",    
+          "link" => "https://play.google.com/store/apps/details?id=kitab.suci.sab",
+        ),      
+array(                    
+          "title" => "InjilMY",
+          "desc" => "Kitab Suci app percuma dalam Bahasa Melayu dan Arab. App luar talian ini menawarkan Kitab Injil dwibahasa, iaitu dalam bahasa Melayu dan Arab.", 
+          "img" => "",    
+          "link" => "https://play.google.com/store/apps/details?id=org.yarahman.injilmy",
+        ),
+
+Artikel
+=======
+array(                    
+          "title" => "Hari 1. APP "Doa seDunia"",
+          "desc" => "Ulasan media aplikasi Doa seDunia untuk melengkapi pelayanan dan pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/02",
+        ),      
+array(                    
+          "title" => "Hari 2. APP BAKAT",
+          "desc" => "Ulasan media aplikasi BAKAT untuk melengkapi pelayanan dan pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/03",
+        ),      
+array(                    
+          "title" => "Hari 3. Situs Bible.is -- Faith Comes By Hearing",
+          "desc" => "Ulasan situs Bible is dan beberapa pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/04",
+        ),      
+array(                    
+          "title" => "Hari 5. Film LUMO",
+          "desc" => "Ulasan film LUMO dan beberapa pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/06",
+        ),      
+array(                    
+          "title" => "Hari 4. Audio Global Recordings dalam Bahasa Suku Indonesia",
+          "desc" => "Ulasan produk audio Global Recording dalam bahasa suku.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/05",
+        ),      
+array(                    
+          "title" => "Hari 6. Film Raja Kemuliaan",
+          "desc" => "Ulasan film Raja Kemuliaan dan beberapa pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/07",
+        ),      
+array(                    
+          "title" => "Hari 7. Situs e-Misi",
+          "desc" => "Ulasan situs e-Misi untuk memperlengkapi para pelayan/pelayanan hijau dan beberapa pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/08",
+        ),      
+array(                    
+          "title" => "Hari 8. Film/Video Pendek/Renungan Seputar Yesus/Kasih-Nya",
+          "desc" => "Ulasan film Raja Kemuliaan dan beberapa pokok doa terkait.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/09",
+        ),      
+array(                    
+          "title" => "Hari 9. Aplikasi Cerita Injil Audio",
+          "desc" => "Ulasan mengena Aplikasi CIA, yang menyediakan cerita-cerita Alkitab bergambar yang dilengkapi dengan ratusan audio dan ilustrasi,", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/10",
+        ),      
+array(                    
+          "title" => "Hari 10. Komik "Siapakah Dia? Kisah Yesus Sang Mesias"",
+          "desc" => "Ulasan singkat mengenai komik "Siapakah Dia" Yesus, tersedia juga untuk pelayanan kepada mereka yang belum percaya.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari/2021/11",
+        ),      
+array(                    
+          "title" => "How to Reach Muslims",
+          "desc" => "Artikel ini membahas tentang bagaimana orang Kristen bisa menemukan kesamaan dengan orang muslim, lalu mencari cara-cara kreatif untuk dapat menjalin relasi dengan mereka guna menjangkau mereka.", 
+          "img" => "",    
+          "link" => "https://www.christianitytoday.com/biblestudies/articles/evangelism/reachmuslims.html",
+        ),      
+array(                    
+          "title" => "Ex-Muslim's Suggestion On "How to Evangelize a Muslim" With Reformed Echoes",
+          "desc" => "Kumpulan saran dari seorang Kristen berlatar belakang muslim tentang bagaimana menginjili seorang muslim dengan pendekatan "Pergi dan Beritakanlah".", 
+          "img" => "",    
+          "link" => "https://network.crcna.org/muslim-ministry/ex-muslims-suggestion-how-evangelize-muslim-reformed-echoes",
+        ),      
+array(                    
+          "title" => "Five Christian Approaches to Islam: Another Look at Martin Accad's Proposal.",
+          "desc" => "Kajian tentang 5 pendekatan Kristen terhadap Islam untuk melihat kelebihan dan kekurangannya, serta untuk mendorong pembaca merefleksikan apa yang melandasi pendekatan kita terhadap orang muslim dan/atau Islam.", 
+          "img" => "",    
+          "link" => "https://network.crcna.org/ecumenical-interfaith/five-christian-approaches-islam-another-look-martin-accads-proposal",
+        ),      
+array(                    
+          "title" => "Well-Researched Videos for Someone in Ministry to Muslims",
+          "desc" => "4 video dari apolog David Wood yang berguna untuk menolong orang Kristen lebih memahami Islam.", 
+          "img" => "",    
+          "link" => "https://network.crcna.org/muslim-ministry/why-should-someone-ministry-muslims-be-aware-david-wood-and-acts-17-apologetics",
+        ),      
+array(                    
+          "title" => "What Is The "Injil"—Sometimes Known as the "Gospel"—in Islam?",
+          "desc" => "Penjabaran tentang pandangan orang muslim terhadap kata "Injil" dan mengapa itu sangat penting.", 
+          "img" => "",    
+          "link" => "https://network.crcna.org/ecumenical-interfaith/what-%E2%80%9Cinjil%E2%80%9D%E2%80%94sometimes-known-%E2%80%98gospel%E2%80%99%E2%80%94-islam",
+        ),      
+array(                    
+          "title" => "What is Salvation in Islam?",
+          "desc" => "Pembahasan tentang tiga pertanyaan penting yang menunjukkan perbedaan arti yang radikal antara Kristen dan Islam berkenaan dengan keselamatan.", 
+          "img" => "",    
+          "link" => "https://network.crcna.org/ecumenical-interfaith/what-salvation-islam",
+        ),      
+array(                    
+          "title" => "Apakah Isi Kitab Injil Asli? Apakah 1 Atau 4 Injil?",
+          "desc" => " ", 
+          "img" => "",    
+          "link" => "https://www.isadanalquran.com/al-maidah-546/isi-kitab-injil-asli/",
+        ),      
+array(                    
+          "title" => "Qs 4:157 – Isa Tidak Wafat! Bagaimana Fakta Sejarah?",
+          "desc" => " ", 
+          "img" => "",    
+          "link" => "https://www.isadanalquran.com/an-nisa-4157/qs-4-157-benar-atau-salah-tentang-penyaliban-isa-al-masih/",
+        ),      
+array(                    
+          "title" => "Keutamaan Hidayah dan Rahmat Kristen",
+          "desc" => " ", 
+          "img" => "",    
+          "link" => "https://www.isadanalquran.com/kesaksian/keutamaan-hidayah-dan-rahmat-kristen/",
+        ),      
+array(                    
+          "title" => "Publikasi Open Doors",
+          "desc" => "Buletin Doa Open Doors (versi elektronik) merupakan publikasi yang hadir sebagai hasil kerja sama antara Yayasan Lembaga SABDA (YLSA) dan Yayasan Obor Damai Indonesia. Adapun buletin ini didistribusikan dengan menggunakan sistem Internet -- Komputer Alkitab Network (I-KAN). Melalui publikasi ini Tuhan memampukan Gereja-Nya untuk pergi ke seluruh dunia dan memberitakan Injil.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/opendoors",
+        ),      
+array(                    
+          "title" => "Publikasi 40 Hari Doa",
+          "desc" => "Program doa bersama 40 Hari Doa Bangsa-bangsa ini akan berlangsung selama bulan Ramadhan. Selama waktu tersebut kami akan mengirimkan pokok-pokok doa versi email yang diambil dari buku panduan doa 40 Hari Doa Bangsa-bangsa untuk menjadi bahan doa kita bersama. jadilah "penggerak doa" di tempat dimana Anda berada, baik di gereja, persekutuan doa, tempat bekerja, dll. Dengan demikian kita akan siap melihat Tuhan berkarya di antara umat-Nya.", 
+          "img" => "",    
+          "link" => "https://sabda.org/publikasi/40hari",
+        ),      
+array(                    
+          "title" => "Mengapa Belajar Alkitab? Alkitab Dinantikan Semua Suku Bangsa",
+          "desc" => "Untuk membawa seluruh bangsa menjadi murid Yesus, itu berarti firman Tuhan juga harus ada dalam segata bahasa suku.", 
+          "img" => "",    
+          "link" => "https://live.sabda.org/article.php?title=alkitab_dinantikan_semua_bangsa",
+        ),      
+array(                    
+          "title" => "Firman Allah Berbicara dalam Bahasa dan Budaya",
+          "desc" => "Berdasarkan Wahyu 7:9, misi Allah ada untuk seluruh suku bangsa. Semua suku harus mendengar pesan kasih Allah, karena mereka tidak hanya masuk dalam Amanat Agung, melainkan juga dalam nubuat penglihatan tentang sejumlah besar orang di ayat itu. Kita bisa berada di antara orang-orang itu jika kita mendengar Kabar Sukacita dalam bahasa yang kita mengerti dan menerima anugerah keselamatan Allah.", 
+          "img" => "",    
+          "link" => "https://live.sabda.org/article.php?title=firman_dalam_bahasa_suku",
+        ),      
+array(                    
+          "title" => "Loving Muslims Enough to Reach Out, Globally and Locally",
+          "desc" => "Setiap umat di muka bumi membutuhkan Kabar Baik bagi kehidupan mereka. Terkhusus untuk menjangkau umat Muslim dibutuhkan usaha dan strategi dengan baik. Melalui artikel ini diharapkan bisa menolong untuk mengasihi dan mengjangkau umat Muslim sesuai dengan kebutuhan.", 
+          "img" => "",    
+          "link" => "https://www.christianitytoday.com/edstetzer/2014/september/loving-muslims-enough-to-reach-out.html",
+        ),      
+array(                    
+          "title" => "Ordinary’ Christians Can Reach Muslims Better than Specialists",
+          "desc" => "Jaringan Mahabba mampu menjadi wadah untuk menjangkau orang-orang Muslim melalui orang Kristen yang biasa yang didukung oleh orang Kristen yang sudah spesialis dalam menjangkau Muslim. Dengan adanya jaringan relasional Mahabba maka ekspansi secara nasional dan internasional dapat terwujuh melalui program ataupun strategi yang sudah dilakukan.", 
+          "img" => "",    
+          "link" => "https://www.lausanne.org/content/lga/2017-01/ordinary-christians-can-reach-muslims-better-than-specialists",
+        ),      
+array(                    
+          "title" => "How to Reach the Muslim Peoples in Five Easy Steps",
+          "desc" => "5 langkah sederhana untuk mulai menjangkau tetangga kita yang muslim.", 
+          "img" => "",    
+          "link" => "https://www.mahabbanetwork.com/blog/reach-muslim-peoples-five-steps",
+        ),      
+array(                    
+          "title" => "2 Ways to Reach Out to a Muslim Right Where You’re At",
+          "desc" => "2 ide kreatif untuk menjangkau saudara muslim kita di mana pun kita berada: dengan kartu ucapan selamat datang dan dengan menawarkan bantuan yang mereka perlukan.", 
+          "img" => "",    
+          "link" => "https://www.goservelove.net/reach-muslims/",
+        ),
+        
+Audio
+=====
+
+array(                    
+          "title" => "Alkitab audio bahasa Shellabear",
+          "desc" => "Audio Alkitab Perjanjian Baru versi Bahasa Indonesia Shellabear. Audio drama ini dapat diunduh dengan kualitas rendah atau kualitas tinggi, dan dapat diputar di situs.", 
+          "img" => "",    
+          "link" => "https://audio.sabda.org/download_shellabear_full",
+          "mp3" => "",
+        ),   
+array(                    
+          "title" => "Audio Program Kebenaran Abadi",
+          "desc" => "Program "Kebenaran Abadi" (dalam bahasa Indonesia) adalah bagian dari program pengajaran Alkitab "Through The Bible". Seri aslinya ditulis oleh Dr. J. VernonMcGee dan telah diterjemahkan dan disesuaikan ke dalam lebih 100 bahasa maupun dialek.", 
+          "img" => "",    
+          "link" => "https://sabda.id/listen.php",
+          "mp3" => "",
+        ),   
+array(                    
+          "title" => "Audio Global Recordings Dalam Bahasa Suku Indonesia",
+          "desc" => " ", 
+          "img" => "",    
+          "link" => "https://globalrecordings.net/id/country/ID",
+          "mp3" => "",
+        ),   
+array(                    
+          "title" => "Metanarasi Alkitab: Misi Allah",
+          "desc" => "Pemaparan terkait dimulainya misi Allah dalam Alkitab.", 
+          "img" => "",    
+          "link" => "",
+          "mp3" => "https://static.sabda.org/live/passionseries/Passion_Series_20200916_Metanarasi_Alkitab_Misi_Allah.mp3",
+        ),   
+array(                    
+          "title" => "Reaching Muslim Neighbors with the Gospel",
+          "desc" => "Kumpulan bahan audio untuk pelayanan penjangkauan bagi kaum muslim supaya mengenal Injil.", 
+          "img" => "",    
+          "link" => "https://www.namb.net/podcasts/evangelism-with-johnny-hunt/reaching-muslim-neighbors-with-the-gospel/",
+          "mp3" => "",
+        ),
+        
+        
+Grafis
+======
+
+array(                    
+          "title" => "Komik Yesus Mesias (Isa)",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "MULMED\FINAL\KOMIK\1_NASKAH DAN DESAIN\1_KOMIK\02_SIAPAKAH DIA\1_KOMIK\JM Project Old\JM-Bahasa_Indonesia_k.pdf",
+        ),   
+array(                    
+          "title" => "5 Mukjizat Isa Al-Masih di Alquran",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://www.isadanislam.org/infographic/5-mukjizat-isa-al-masih-di-al-quran/",
+        ),   
+array(                    
+          "title" => "Budak Allah dan Anak Allah - Mana Lebih Baik?",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://www.isadanislam.org/infographic/budak-allah-atau-anak-allah-mana-lebih-baik/",
+        ),
+        
+Situs
+=====
+
+array(                    
+          "title" => "Situs e-Misi",
+          "desc" => "Sumber informasi dan referensi terlengkap, tentang misi baik di Indonesia maupun di seluruh dunia.", 
+          "img" => "",    
+          "link" => "https://misi.sabda.org/",
+        ),   
+array(                    
+          "title" => "Situs BaKat",
+          "desc" => "Situs Katalog berbagai jenis media Kristen dalam bahasa Indonesia dan bahasa suku.", 
+          "img" => "",    
+          "link" => "https://bakat.sabda.org",
+        ),   
+array(                    
+          "title" => "I AM Channel",
+          "desc" => "Situs yang menyediakan bahan-bahan untuk pelayanan penjangkauan dan penginjilan.", 
+          "img" => "",    
+          "link" => "https://iamchannel.org/",
+        ),
+        
+Kitab Suci
+==========
+
+array(                    
+          "title" => "Alkitab Shellabear Kontekstual - 2010",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://alkitab.mobi/sb2010/",
+        ),   
+array(                    
+          "title" => "Kitab Suci Revisi Shellabear - 2011",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://alkitab.mobi/ks2011/",
+        ),   
+array(                    
+          "title" => "Alkitab PB Shellabear (Kontekstual) - 2000",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://alkitab.mobi/sb2000/",
+        ),   
+array(                    
+          "title" => "Alkitab Shellabear (Kontekstual) - 1912",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://alkitab.mobi/sbdr/",
+        ),   
+array(                    
+          "title" => "Kitab Suci Zabur dan Injil Bahasa Malaysia (KSZI) - 2008",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://alkitab.mobi/kszi/",
+        ),   
+array(                    
+          "title" => "Kitab TZI (Taurat, Zabur, Injil)",
+          "desc" => "", 
+          "img" => "",    
+          "link" => "https://kitabtzi.com/",
+        ),   
